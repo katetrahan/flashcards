@@ -1,0 +1,17 @@
+.definition {
+  display: none;
+}
+
+.term{
+  font-size: 20pt;
+  text-align: center;
+}
+
+.well {
+  height: 100px;
+  background-color:#f7e283;
+}
+
+body {
+  background-color: #74ad86;
+}
