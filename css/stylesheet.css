@@ -8,10 +8,22 @@
 }
 
 .well {
-  height: 100px;
-  background-color:#f7e283;
+  height: 150px;
+  background-color: rgba(153,157,160, 0.5);
 }
 
 body {
-  background-color: #74ad86;
+  background-color: #a3969e;
+}
+
+.col-sm-4:nth-child(3n + 1) {
+  color: #2b7c85;
+}
+
+.col-sm-4:nth-child(3n + 2) {
+  color: 	#e7d2cc;
+}
+
+.col-sm-4:nth-child(3n + 3) {
+  color: #eeeeee;
 }
